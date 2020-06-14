@@ -99,9 +99,9 @@ if (storeA < storeB) {
  */
 
 /**************************************
-//Objects, Interfaces, and API`s
+ //Objects, Interfaces, and API`s
 
-let dog = {
+ let dog = {
     name: 'Steve',
     color: 'brown',
     breed: 'Pug',
@@ -111,16 +111,16 @@ let dog = {
     }
 };
 
-dog.bark();
+ dog.bark();
 
-function x(y) {
+ function x(y) {
     y.num = y.num + 5;
     console.log(y);
 }
-let y = {
+ let y = {
     name: 'John',
     num: 10
 };
-x(y);
-console.log(y);
+ x(y);
+ console.log(y);
  */
